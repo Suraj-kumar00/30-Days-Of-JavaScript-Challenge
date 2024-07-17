@@ -82,5 +82,3 @@ Definition: BigInt is a built-in object in JavaScript that provides a way to rep
   person.age = 30;
   console.log(person);  // Outputs: { name: "John", age: 30 }
   ```
-
-These explanations and snippets should help in understanding the fundamental concepts of variable and constant declarations, data types, reassigning variables, and using constants in JavaScript.
