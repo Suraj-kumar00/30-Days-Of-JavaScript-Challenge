@@ -8,3 +8,11 @@ let newArr = arr.map((num) => { // arr.map() is how you call the map() method on
 }
 );
 console.log(newArr);
+
+// OR
+
+// function transform(i){
+//     return i*2;
+// }
+// const newArr = arr.map(transform);
+// console.log(newArr);
